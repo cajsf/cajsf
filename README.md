@@ -2,7 +2,7 @@
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcajsf&count_bg=%23CDACF2&title_bg=%23464EAF&icon=&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalstjd113">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalstjd113"><img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
 ### Who Am I
 
 - 🌱 I’m currently learning C, python
@@ -11,7 +11,7 @@
 
 - 🚅 My hometown is Seoul in Korea
 
-### Experience<img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
+### Experience
 - 🎓 Sejong University , A.I (2021.03~ )
 
 
