@@ -5,7 +5,9 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalstjd113">
 ### Who Am I
 - 🌱 I’m currently learning C, python
+
 - 🥇 I majored in A.I
+
 - 🚅 My hometown is Seoul in Korea
 
 ### Experience
