@@ -13,10 +13,6 @@
 
 ### Experience
 - 🎓 Sejong University , A.I (2021.03~ )
-
-### What I Like
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
 
 
