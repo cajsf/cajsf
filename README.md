@@ -11,10 +11,8 @@
 
 - 🚅 My hometown is Seoul in Korea
 
-### Experience
+### Experience<img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
 - 🎓 Sejong University , A.I (2021.03~ )
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
-
 
 
 <!--
