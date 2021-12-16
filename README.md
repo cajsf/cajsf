@@ -17,6 +17,9 @@
 ### What I Like
 
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cajsf" height="165">
+
+
 
 <!--
 **cajsf/cajsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
