@@ -10,6 +10,8 @@
 
 | 프로젝트 | 소개 | 기술 |
 |---|---|---|
+| [**OcclusionGateNet**](https://github.com/yg2127/OcclusionGateNet) 🏆 | 얼굴 차폐·야간에도 강건한 운전자 모니터링 시스템(DMS). 세종대 창의설계경진대회 **우수상** (2026-1 캡스톤, 5인 팀) | PyTorch, Computer Vision, YOLO-Pose |
+| [**LawDict**](https://github.com/jin040907/LawDict) | AI 기반 입법 분석 플랫폼 — CatBoost 법안 처리 예측 + GPT 리포트·챗봇 (겨울방학 현장실습 팀 프로젝트) | FastAPI, CatBoost, PostgreSQL, pgvector |
 | [**식자재 유통 ERP**](https://github.com/cajsf/ERP-program) 🚧 | 실제 식자재 유통 사업장에 도입할 실무용 ERP. 서비스 계층 설계, 재고 원장 기반 정합성 관리, 테스트 700+ (개발 진행 중) | Django, PostgreSQL, HTMX, Docker |
 | [**AllerCheck**](https://github.com/cajsf/allercheck) | 사진 한 장으로 알레르기 위험을 판단하는 AI 웹서비스. YOLO v8(571클래스) + Gemini 하이브리드 추론, 피드백 기반 데이터 수집 | PyTorch, YOLOv8, FastAPI, MySQL, Docker |
 | [**식품 알레르기 정보 시스템**](https://github.com/cajsf/Food_Allergy_Detect_Project) | AllerCheck의 전신. 웹 크롤링+OCR로 제품 1,152개 데이터를 구축하고 3NF로 설계한 DB 프로젝트 | Python, MySQL, BeautifulSoup, Tesseract |
