@@ -10,14 +10,13 @@
 
 | 프로젝트 | 소개 | 기술 |
 |---|---|---|
+| [**식자재 유통 ERP**](https://github.com/cajsf/ERP-program) 🚧 | 실제 식자재 유통 사업장에 도입할 실무용 ERP. 서비스 계층 설계, 재고 원장 기반 정합성 관리, 테스트 700+ (개발 진행 중) | Django, PostgreSQL, HTMX, Docker |
 | [**AllerCheck**](https://github.com/cajsf/allercheck) | 사진 한 장으로 알레르기 위험을 판단하는 AI 웹서비스. YOLO v8(571클래스) + Gemini 하이브리드 추론, 피드백 기반 데이터 수집 | PyTorch, YOLOv8, FastAPI, MySQL, Docker |
 | [**식품 알레르기 정보 시스템**](https://github.com/cajsf/Food_Allergy_Detect_Project) | AllerCheck의 전신. 웹 크롤링+OCR로 제품 1,152개 데이터를 구축하고 3NF로 설계한 DB 프로젝트 | Python, MySQL, BeautifulSoup, Tesseract |
 | [**live-captions**](https://github.com/cajsf/live-captions) | 리턴제로 STT API 기반 실시간 방송 자막 웹 데모 — 마이크 라이브 자막 + 영상 동기 자막 | Python, WebSocket, STT API |
 | [**Spider Web Player**](https://github.com/cajsf/spider) | 플랫폼 독립적인 플레이리스트 공유 SNS. Shazam 음원 인식·OCR로 곡 추가 | Flask, MongoDB, YouTube API |
 | [**Gapminder EDA**](https://github.com/cajsf/eda-dashboard) | 인구가중 통계·수렴 분석 기반 심화 EDA와 Quarto 대시보드 ([라이브 데모](https://cajsf.github.io/eda-dashboard/)) | R, tidyverse, Quarto |
 | [**Smart Doorlock**](https://github.com/cajsf/smart-doorlock) | Shift 조합 입력·시도 제한을 구현한 아두이노 도어락. 케이스 3D 프린팅까지 직접 제작 | Arduino, C++, SolidWorks |
-
-🚧 **진행 중** — 실제 식자재 유통 사업장에 도입할 **ERP 웹앱** 개발 중 (Django + PostgreSQL, 서비스 계층 설계·재고 원장 기반 정합성 관리, 테스트 700+개). 완성 후 공개 예정입니다.
 
 ## 🛠 기술 스택
 
